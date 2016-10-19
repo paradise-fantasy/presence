@@ -5,7 +5,6 @@ import bluetooth
 import time
 from Person import Person
 from bluetooth_handler import check_home
-import api
 
 
 havard		=	Person("Håvard",		"40:B8:37:2C:C6:9F", 	"blue")
