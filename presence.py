@@ -11,7 +11,7 @@ havard		=	Person("Haavard",		"40:B8:37:2C:C6:9F", 	"blue")
 frederik	=	Person("Frederik",		"18:65:90:49:90:6C",	"green")
 raymi		=	Person("Raymi",			"84:8E:DF:4B:D7:9F",	"red")
 tormod		=	Person("Tormod",		"F4:8E:92:7F:27:12",	"yellow")
-kabbe		=	Person("Jon-Anders",	"F4:8E:92:7F:27:10",	"cyan")
+kabbe		=	Person("Jon-Anders",	"08:21:EF:7A:E7:88",	"cyan")
 
 
 list_of_members = [havard, frederik, raymi, tormod, kabbe]
