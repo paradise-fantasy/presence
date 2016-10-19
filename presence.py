@@ -5,7 +5,7 @@ import bluetooth
 import time
 from Person import Person
 from bluetooth_handler import check_home
-from mqtt_api import send_presence_event send_everyone_present
+from mqtt_api import send_presence_event, send_everyone_present
 
 
 
